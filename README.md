@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @eduardob737
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Eduardo Barbosa
 
-<!---
-eduardob737/eduardob737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou Eduardo Barbosa, 20 anos, apaixonado por tecnologia, cursando Análise e Desenvolvimento de Sistemas e atuando como Programador Trainee na Foursys.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/barbosa-eduardo/)
+[![followersGit](https://img.shields.io/github/followers/eduardob737?style=social)](https://github.com/eduardob737)
